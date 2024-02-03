@@ -1,4 +1,4 @@
-# FSD-Day-03
+# DOM MANIPULATION
 
 👋 Hello there! Welcome to my [Medium](https://medium.com/@rithickshival16) blog.
 
